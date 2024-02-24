@@ -65,4 +65,9 @@
   padding: 10px 20px;
   font-family: "Ubuntu";
   font-weight: 600px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+.main-page button:hover{
+  box-shadow:0px 2px 2px;
 }
